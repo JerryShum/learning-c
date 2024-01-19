@@ -19,4 +19,4 @@ main(){
 ```
 
 - sequence of characters in double quotes is called a **string constant** -> "Hello, World!" is a string constant
-- `\n` is notation for the _new line character_
+- `\n` is notation for the \_new line character\_
